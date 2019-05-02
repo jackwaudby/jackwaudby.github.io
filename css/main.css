@@ -41,3 +41,41 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.blurb {
+    /* text-align: center; */
+    /* background:lightblue; */
+}
+
+.image {
+    padding: 5px;
+    /* background: yellow; */
+    margin: 0 auto;
+    width: 95%;
+}
+
+.image img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.columnL {
+    float: left;
+    width: 29%;
+}
+
+.columnR {
+    float: left;
+    width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.blob {
+   width: 90%;
+}
