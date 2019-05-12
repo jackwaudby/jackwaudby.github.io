@@ -1,37 +1,60 @@
+/* default.html  */
+
 body {
     margin: 60px auto;
     width: 70%;
+    background: #2E2E2E;
+    color: #999;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    /* background: lightgrey;    */
 }
+
+nav a {
+    color: #999;
+}
+
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+nav {
+    border-bottom: 1px solid #999;
+}
+
+footer {
+    border-top: 1px solid #999;
+    font-size: .8em;
+}
+
+/* general styling */
+
 a {
     text-decoration: none;
-    color: #999;
+    color: #4F86C6;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+    }
+
+/* blog styling */
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -42,40 +65,46 @@ ul.posts li {
     list-style: none;
 }
 
-.blurb {
-    /* text-align: center; */
+/* home styling */
+
+.cont {
     /* background:lightblue; */
 }
 
-.image {
-    padding: 5px;
-    /* background: yellow; */
+.info {
+    width: 90%;
+    text-align: center;
+    /* background: lightsalmon; */
     margin: 0 auto;
-    width: 95%;
 }
 
-.image img {
+.pic {
+    padding: 5px;
+    /* background: yellow;  */
+    margin: 0 auto;
+    width: 30%;
+}
+
+.pic img {
     width: 100%;
     margin: 0 auto;
 }
 
-.columnL {
-    float: left;
-    width: 29%;
-}
+/* .columnL { */
+/*     float: left; */
+/*     width: 29%; */
+/* } */
 
-.columnR {
-    float: left;
-    width: 70%;
-}
+/* .columnR { */
+/*     float: left; */
+/*     width: 70%; */
+/* } */
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+/* /\* Clear floats after the columns *\/ */
+/* .row:after { */
+/*     content: ""; */
+/*     display: table; */
+/*     clear: both; */
+/* } */
 
-.blob {
-   width: 90%;
-}
+
