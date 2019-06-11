@@ -1,8 +1,8 @@
 # Personal Website
 
-This repository contains my [personal website][https://jackwaudby.github.io].
+This repository contains my [personal website](https://jackwaudby.github.io).
 
-[Tutorial][http://jmcglone.com/guides/github-pages/]
+[Tutorial](http://jmcglone.com/guides/github-pages/)
 
 The website is hosted through GitHub Pages. 
 
@@ -15,6 +15,6 @@ Jekyll's directory structure:
 
 Jekyll uses liquid tags to inject content into the layout. 
 
-Set up Jekyll [locally][https://jekyllrb.com/docs/step-by-step/01-setup/] so you can edit and preview your site and then push those changes to your GitHub repo. 
+Set up Jekyll [locally](https://jekyllrb.com/docs/step-by-step/01-setup/) so you can edit and preview your site and then push those changes to your GitHub repo. 
 
 To run locally `bundle exec jekyll serve`
