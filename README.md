@@ -1,20 +1,10 @@
-# Personal Website
+# My personal website
 
-This repository contains my [personal website](https://jackwaudby.github.io).
+This repository contains my [personal website](https://jackwaudby.github.io) hosted through GitHub Pages using Jekyll (a static site generator). You can make your own by following this [tutorial](http://jmcglone.com/guides/github-pages/). It's a good idea to set up Jekyll [locally](https://jekyllrb.com/docs/step-by-step/01-setup/) so you can edit and preview your site before pushing to github. (So I don't forget) you run jekyll locally using: `bundle exec jekyll serve`
 
-[Tutorial](http://jmcglone.com/guides/github-pages/)
 
-The website is hosted through GitHub Pages. 
 
-The site is managed through Jekyll a static site generator. 
 
-Jekyll's directory structure:
-1. `_site`: generated automatically by Jekyll
-2. `_config.yml`: tells Jekyll basics about the project 
-3. `_layouts`: main layout that contains repeated elements like `<head>` and `<footer>`
 
-Jekyll uses liquid tags to inject content into the layout. 
 
-Set up Jekyll [locally](https://jekyllrb.com/docs/step-by-step/01-setup/) so you can edit and preview your site and then push those changes to your GitHub repo. 
 
-To run locally `bundle exec jekyll serve`
