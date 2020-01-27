@@ -10,9 +10,8 @@
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <!-- <li><a href="/projects">Projects</a></li> -->
-                    <!-- <li><a href="/cv">CV</a></li> -->
-                    <li><a href="/blog">Systems Reading Group</a></li>
+                    <li><a href="/reading_group">Systems Reading Group</a></li>
+                    <li><a href="/csc8101">CSC8101</a></li>
                 </ul>
             </nav>
             <div class="container">
@@ -27,5 +26,10 @@
                     <li><a href="https://twitter.com/waudberry_7">twitter.com/waudberry_7</a></li>
                 </ul>
             </footer>
+
+            {% if jekyll.environment == 'production' %}
+            {% include analytics.html %}
+            {% endif %}
+
         </body>
     </html>

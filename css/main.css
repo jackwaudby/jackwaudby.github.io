@@ -10,7 +10,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 nav ul, footer ul {
-     font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
+     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -38,10 +38,10 @@ footer {
 
 /* general styling */
 
- a { 
-     text-decoration: none; 
-     color: #838C95; 
- } 
+ a {
+     text-decoration: none;
+     color: #838C95;
+ }
 
 a:hover {
     text-decoration: underline;
@@ -54,7 +54,7 @@ a:hover {
 .title {
     margin-top: 30px;
     margin-bottom: 30px;
-    
+
 }
 
 h1 {
@@ -71,10 +71,31 @@ p {
     margin-right: auto;
 }
 
+.container ul {
+    width: 85%;
+    margin: auto;
+}
+
+/* code blocks */
+
+.highlight {
+    width: 75%;
+    margin: auto;
+    background: #A9A9A9;
+    color:  #0066FF;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 15px;
+}
+
+.highlight code {
+    margin-left: 20px;
+}
+
 /* blog styling */
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -83,27 +104,16 @@ ul.posts li {
 }
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {...} 
+@media only screen and (max-width: 600px) {...}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {...} 
+@media only screen and (min-width: 600px) {...}
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {...} 
+@media only screen and (min-width: 768px) {...}
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) { } 
+@media only screen and (min-width: 992px) { }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {...}
-
-
-
-
-
-
-
-
-
-
-
