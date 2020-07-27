@@ -4,6 +4,13 @@ title: "ZooKeeper: Wait-free coordination for Internet-scale systems"
 date: 2020-01-15
 ---
 
+### Paper ###
+
+**[ZooKeeper: Wait-free coordination for Internet-scale systems](https://static.usenix.org/event/atc10/tech/full_papers/Hunt.pdf)**
+<br />
+    Patrick Hunt, Mahadev Konar, Flavio Paiva Junqueira, and Benjamin Reed. In USENIX Annual Technical Conference, 2010.
+
+
 ### Overview ###
 
 Distributed systems often require some of coordination: configuration, group membership and leader election are common examples.
@@ -27,12 +34,4 @@ Data is replicated across servers in the ZooKeeper service. Each server has a re
 
 ### Applications ###
 
-ZooKeeper is used in Yahoo's Fetching Service, Katta and Message Broker
-
-<!-- ### Experiments & Results ### -->
-
-<!-- 50 server cluster, 1 Xeon dual-core 2.1GHz processor, 4GB RAM, gigabit ethernet and 2 SATA hard drives. -->
-
-<!-- Looked at throughput and latency -->
-
-<!-- latency 1.2ms -->
+ZooKeeper is used in Yahoo's Fetching Service, Katta and Message Broker.

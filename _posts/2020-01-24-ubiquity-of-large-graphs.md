@@ -4,6 +4,13 @@ title: "The Ubiquity of Large Graphs and Surprising Challenges of Graph Processi
 date: 2020-01-24
 ---
 
+### Paper ###
+
+**[The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](https://dl.acm.org/doi/pdf/10.1145/3164135.3164139)**
+<br />
+    Siddhartha Sahu, Amine Mhedhbi, Semih Salihoglu, Jimmy Lin, and M. Tamer Özsu. Proceedings of the VLDB Endowment, 2017.
+
+
 ### Overview ###
 
 This paper aims to address how graphs are used in practice, focusing on 4 areas:
