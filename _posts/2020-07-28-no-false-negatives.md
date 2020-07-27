@@ -46,5 +46,3 @@ Used TATP benchmark, which generates few conflict cycles, SGT experienced few ab
 Found the CPU overhead needed for cycle checking was a small amount of the total transaction costs. 
 Additionally, the overhead of maintaining access history, conflict detection, cycle checking, and aborts was consistent with costs associated with other CC protocols. 
 Lastly, maintaining the access history added a small space overhead, e.g., for the YCSB benchmark the memory footprint increased by 2.4%. 
-
-![image info](fig4.png)
