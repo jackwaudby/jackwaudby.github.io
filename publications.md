@@ -7,6 +7,8 @@ permalink: /publications/
 **[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](http://ldbcouncil.org/)**
 <br />
     Jack Waudby, Benjamin A. Steer, Karim Karimov, József Marton, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2020.
+<br />
+[[video](https://www.youtube.com/watch?v=CKdfs0OlDw4)] [[slides](https://github.com/ldbc/ldbc_acid/tree/master/slides)] [[code](https://github.com/ldbc/ldbc_acid)]
 
 **[Supporting Dynamic Graphs and Temporal Entity Deletions in the LDBC Social Network Benchmark's Data Generator](http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf)**
 <br />
