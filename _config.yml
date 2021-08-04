@@ -41,5 +41,3 @@ plugins:
 
 header_pages:
     - publications.md
-    - reading-group.md
-    - teaching.md
