@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+**[LSQB: A Large-Scale Subgraph Query Benchmark](https://dl.acm.org/doi/pdf/10.1145/3461837.3464516)**
+<br />
+Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas. Proceedings of GRADES-NDA@SIGMOD, 2021.
+<br />
+[[code](https://github.com/ldbc/lsqb)
+
 **[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](http://ldbcouncil.org/)**
 <br />
     Jack Waudby, Benjamin A. Steer, Karim Karimov, József Marton, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2020.
