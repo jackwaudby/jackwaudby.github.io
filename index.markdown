@@ -13,7 +13,7 @@ My main research interest is distributed database systems, specifically transact
 My PhD research is concerned with data consistency in distributed graph databases.
 I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force.
 
-A brief bio: my undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics & Mathematics and Statistics respectively.
+My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics & Mathematics and Statistics respectively.
 Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor.
 
 ## Publications ##
@@ -22,7 +22,7 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 <br />
 Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas. Proceedings of GRADES-NDA@SIGMOD, 2021.
 <br />
-[[code](https://github.com/ldbc/lsqb)
+[[code](https://github.com/ldbc/lsqb)]
 
 **[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](http://ldbcouncil.org/)**
 <br />

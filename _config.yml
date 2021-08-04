@@ -40,4 +40,3 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-    - publications.md
