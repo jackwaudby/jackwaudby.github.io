@@ -7,6 +7,8 @@ title: I'm Jack Waudby.
     <img style="text-align:left" src="/assets/me.JPG" alt="me with beard" width="20%">
 </div>
 
+**Currently interning at Neo4j until Nov 2021**
+
 I'm a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/groups/scalable/#about) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/).
 
 My main research interest is distributed database systems, specifically transaction management and replication.
