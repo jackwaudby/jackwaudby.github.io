@@ -1,13 +1,11 @@
 ---
 layout: page
-title: I'm Jack Waudby.
+title: About me
 ---
 
-<div style="padding-bottom:10px">
-    <img style="text-align:left" src="/assets/me.JPG" alt="me with beard" width="20%">
+<div style="padding-bottom:10px;text-align:left">
+    <img style="text-align:left;border-radius:10%" src="/assets/me.JPG" alt="me with beard" width="20%">
 </div>
-
-:warning: **Currently interning at Neo4j until Nov 2021** :warning:
 
 I'm a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/groups/scalable/#about) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/).
 
@@ -17,6 +15,12 @@ I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcounci
 
 My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics & Mathematics and Statistics respectively.
 Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor.
+
+## News ##
+
+* 2021
+  * Nov: I was a program committee member of the [6th UK System Research Challenges Workshop](https://uksystems.org/).
+  * Aug-Dec: I was an intern at [Neo4j](https://neo4j.com/) as part of the clustering team.
 
 ## Publications ##
 
