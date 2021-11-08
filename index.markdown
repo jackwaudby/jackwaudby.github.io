@@ -20,6 +20,7 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 
 * 2021
   * Nov: I was a program committee member of the [6th UK System Research Challenges Workshop](https://uksystems.org/).
+  * Oct: I curated a selection of [materials](https://github.com/jackwaudby/awesome-consistency) discussing transactional and non-transactional consistency models.
   * Aug-Dec: I was an intern at [Neo4j](https://neo4j.com/) as part of the clustering team.
 
 ## Publications ##
