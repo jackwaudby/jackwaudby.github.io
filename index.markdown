@@ -18,6 +18,9 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 
 ## News ##
 
+* 2022
+  * Feb: I conducted a research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
+
 * 2021
   * Nov: I was a program committee member of the [6th UK System Research Challenges Workshop](https://uksystems.org/).
   * Oct: I curated a selection of [materials](https://github.com/jackwaudby/awesome-consistency) discussing transactional and non-transactional consistency models.
