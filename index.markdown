@@ -31,6 +31,12 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 
 ## Publications ##
 
+**[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases]()**
+<br />
+    Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
+<br />
+[[video]()] [[slides]()] [[code]()]
+
 **[LSQB: A Large-Scale Subgraph Query Benchmark](https://dl.acm.org/doi/pdf/10.1145/3461837.3464516)**
 <br />
 Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas. Proceedings of GRADES-NDA@SIGMOD, 2021.
@@ -39,7 +45,7 @@ Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas
 
 **[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](http://ldbcouncil.org/)**
 <br />
-    Jack Waudby, Benjamin A. Steer, Karim Karimov, József Marton, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2020.
+    Jack Waudby, Benjamin A. Steer, Karim Karimov, József Marton, Peter Boncz, Gábor Szárnyas. Proceedings of TPCTC@VLDB, 2020.
 <br />
 [[video](https://www.youtube.com/watch?v=CKdfs0OlDw4)] [[slides](https://github.com/ldbc/ldbc_acid/tree/master/slides)] [[code](https://github.com/ldbc/ldbc_acid)]
 
