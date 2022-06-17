@@ -19,6 +19,9 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 ## News ##
 
 * 2022
+  * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at SRDS 2022.
+  * June: I co-organized the [15th LDBC TUC meeting](https://ldbcouncil.org/event/fifteenth-tuc-meeting/) co-located with SIGMOD 2022.
+  * May: I conducted (another) research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
   * Feb: I conducted a research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
 
 * 2021
