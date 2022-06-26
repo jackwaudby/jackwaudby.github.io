@@ -17,7 +17,7 @@ plugins:
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized
+  skin: dark
   social_links:
     twitter: jwaudberry
     github: jackwaudby

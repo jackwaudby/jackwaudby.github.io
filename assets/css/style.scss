@@ -1,14 +1,13 @@
-// ---
+---
+---
 
-// ---
+@import "minima/skins/{{ site.minima.skin | default: 'dark' }}";
+@import "minima/initialize";
 
-// @import "minima/skins/{{ site.minima.skin | default: 'dark' }}";
-// @import "minima/initialize";
+a {
+    color: #e46c24;
+}
 
-// a {
-//     color: #e46c24;
-// }
-
-// a:visited {
-//   color:  #e46c24;
-// }
+a:visited {
+  color:  #e46c24;
+}
