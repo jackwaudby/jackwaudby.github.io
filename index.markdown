@@ -17,7 +17,7 @@ I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcounci
 
 My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics &
 Mathematics and Statistics respectively.
-Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor.
+Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. [[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)]
 
 ## News ##
 

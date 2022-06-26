@@ -1,13 +1,18 @@
 title: Jack Waudby
-email: j.waudby2@ncl.ac.uk
+author:
+  name: Jack Waudby
+  email: j.waudby2@ncl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
     I'm Jack Waudby, a Computer Science PhD Student at Newcastle University.
     Distributed database systems are my thing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jwaudberry
-github_username:  jackwaudby
-linkedin_username: jack-waudby
+
+minima:
+  social_links:
+    twitter: jwaudberry
+    github: jackwaudby
+    linkedin: jack-waudby
 
 # Build settings
 theme: minima
