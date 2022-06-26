@@ -36,3 +36,5 @@ plugins:
 
 header_pages:
     - publications.md
+
+google_analytics: UA-157106444-1
