@@ -19,9 +19,13 @@ My undergraduate and masters degrees were completed at [Lancaster University](ht
 Mathematics and Statistics respectively.
 Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. [[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)]
 
+I'm also the host of [Disseminate](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
+
 ## News ##
 
 * 2022
+  * July: My paper _"High Performance Mixed Graph-Based Concurrency Control"_  was accepted to the PhD Workshop at VLDB 2022.
+  * June: I launched [Disseminate](https://disseminatepodcast.podcastpage.io/) a podcast aimed at making Computer Science research more accessible, helping bridge the gap between academia and industry. 
   * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at SRDS 2022.
   * June: I co-organized the [15th LDBC TUC meeting](https://ldbcouncil.org/event/fifteenth-tuc-meeting/) co-located with SIGMOD 2022.
   * May: I conducted (another) research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
