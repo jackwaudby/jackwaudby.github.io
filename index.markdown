@@ -38,11 +38,17 @@ I'm also the host of [Disseminate](https://disseminatepodcast.podcastpage.io/) a
 
 ## Publications ##
 
+**[High Performance Mixed Graph-Based Concurrency Control]()**
+<br />
+    Jack Waudby. To Appear In: Proceedings of VLDB PhD Workshop, 2022.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
+
 **[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases]()**
 <br />
     Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
 <br />
-[[video]()] [[slides]()] [[code]()]
+<!-- [[video]()] [[slides]()] [[code]()] -->
 
 **[LSQB: A Large-Scale Subgraph Query Benchmark](https://dl.acm.org/doi/pdf/10.1145/3461837.3464516)**
 <br />
