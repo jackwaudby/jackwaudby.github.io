@@ -24,6 +24,7 @@ I'm also the host of [Disseminate](https://disseminatepodcast.podcastpage.io/) a
 ## News ##
 
 * 2022
+  * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to TPCTC at VLDB 2022.
   * July: My paper _"High Performance Mixed Graph-Based Concurrency Control"_  was accepted to the PhD Workshop at VLDB 2022.
   * June: I launched [Disseminate](https://disseminatepodcast.podcastpage.io/) a podcast aimed at making Computer Science research more accessible, helping bridge the gap between academia and industry. 
   * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at SRDS 2022.
@@ -37,6 +38,12 @@ I'm also the host of [Disseminate](https://disseminatepodcast.podcastpage.io/) a
   * Aug-Dec: I was an intern at [Neo4j](https://neo4j.com/) as part of the clustering team.
 
 ## Publications ##
+
+**[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing]()**
+<br />
+    Jack Waudby, Paul Ezhilchelvan, Jim Webber. To Appear In: Proceedings of TPCTC@VLDB, 2022.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
 
 **[High Performance Mixed Graph-Based Concurrency Control]()**
 <br />
