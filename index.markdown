@@ -24,13 +24,13 @@ I'm also the host of [Disseminate](https://disseminatepodcast.podcastpage.io/) a
 ## News ##
 
 * 2022
-  * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to TPCTC at VLDB 2022.
-  * July: My paper _"High Performance Mixed Graph-Based Concurrency Control"_  was accepted to the PhD Workshop at VLDB 2022.
+  * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB 2022](https://vldb.org/2022/).
+  * July: My paper _"High Performance Mixed Graph-Based Concurrency Control"_  was accepted to the PhD Workshop at [VLDB 2022](https://vldb.org/2022/).
   * June: I launched [Disseminate](https://disseminatepodcast.podcastpage.io/) a podcast aimed at making Computer Science research more accessible, helping bridge the gap between academia and industry. 
-  * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at SRDS 2022.
-  * June: I co-organized the [15th LDBC TUC meeting](https://ldbcouncil.org/event/fifteenth-tuc-meeting/) co-located with SIGMOD 2022.
-  * May: I conducted (another) research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
-  * Feb: I conducted a research visit to CWI Amsterdam, working with Gábor Szárnyas on the LDBC Social Network Benchmark.
+  * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at [SRDS 2022](https://srds-conference.org/).
+  * June: I co-organized the [15th LDBC TUC meeting](https://ldbcouncil.org/event/fifteenth-tuc-meeting/) co-located with [SIGMOD 2022](https://2022.sigmod.org/).
+  * May: I conducted (another) research visit to [CWI Amsterdam](https://www.cwi.nl/), working with [Gábor Szárnyas](https://szarnyasg.github.io/) on the [LDBC Social Network Benchmark](https://ldbcouncil.org/benchmarks/snb/).
+  * Feb: I conducted a research visit to [CWI Amsterdam](https://www.cwi.nl/), working with [Gábor Szárnyas](https://szarnyasg.github.io/) on the [LDBC Social Network Benchmark](https://ldbcouncil.org/benchmarks/snb/).
 
 * 2021
   * Nov: I was a program committee member of the [6th UK System Research Challenges Workshop](https://uksystems.org/).
