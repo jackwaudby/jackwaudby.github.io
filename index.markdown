@@ -46,7 +46,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
     Jack Waudby, Paul Ezhilchelvan, Jim Webber. To Appear In: Proceedings of TPCTC@VLDB, 2022.
 <br />
-[[video]()] [[slides]()] [[code](https://github.com/jackwaudby/spaghetti)]
+[[video](https://youtu.be/oPOfodWVoO4)] [[slides](https://github.com/jackwaudby/tpctc-22/blob/main/slides/tpctc_jack_waudby.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
 **[High Performance Mixed Graph-Based Concurrency Control]()**
 <br />
