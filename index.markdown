@@ -42,7 +42,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 
 ## Publications ##
 
-**[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing]()**
+**[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing](https://jackwaudby.github.io/tpctc-22/ms.pdf)**
 <br />
     Jack Waudby, Paul Ezhilchelvan, Jim Webber. To Appear In: Proceedings of TPCTC@VLDB, 2022.
 <br />
