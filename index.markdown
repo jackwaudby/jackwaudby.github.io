@@ -24,7 +24,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 ## News ##
 
 * 2022
-  * Sept: I presented two papers at VLDB'22.
+  * Sept: Attended VLDB'22 in Sydney, Australia.
   * Aug: [Disseminate: The Computer Science Research Podcast Season 1 (SIGMOD'22)](https://disseminatepodcast.podcastpage.io/) was completed.  
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
   * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
