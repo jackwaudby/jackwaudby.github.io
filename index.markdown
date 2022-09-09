@@ -24,7 +24,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 ## News ##
 
 * 2022
-  * Sept: Attended VLDB'22 in Sydney, Australia.
+  * Sept: I attended VLDB'22 in Sydney, Australia.
   * Aug: [Disseminate: The Computer Science Research Podcast Season 1 (SIGMOD'22)](https://disseminatepodcast.podcastpage.io/) was completed.  
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
   * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
@@ -48,11 +48,11 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
 [[video](https://youtu.be/oPOfodWVoO4)] [[slides](https://github.com/jackwaudby/tpctc-22/blob/main/slides/tpctc_jack_waudby.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
-**[High Performance Mixed Graph-Based Concurrency Control]()**
+**[High Performance Mixed Graph-Based Concurrency Control](https://jackwaudby.github.io/vldb-phd-workshop-22/ms.pdf)**
 <br />
     Jack Waudby. To Appear In: Proceedings of VLDB PhD Workshop, 2022.
 <br />
-[[video]()] [[slides]()] [[code](https://github.com/jackwaudby/spaghetti)]
+[[video](https://youtu.be/u-PPcLy-dqY)] [[slides](https://github.com/jackwaudby/vldb-phd-workshop-22/blob/main/slides/PhDWorkshop_9.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
 **[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases]()**
 <br />
