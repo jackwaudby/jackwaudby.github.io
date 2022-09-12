@@ -54,7 +54,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
 [[video](https://youtu.be/u-PPcLy-dqY)] [[slides](https://github.com/jackwaudby/vldb-phd-workshop-22/blob/main/slides/PhDWorkshop_9.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
-**[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases]()**
+**[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases](https://jackwaudby.github.io/srds-22/ms.pdf)**
 <br />
     Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
 <br />
