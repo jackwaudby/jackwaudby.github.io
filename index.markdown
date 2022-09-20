@@ -24,6 +24,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 ## News ##
 
 * 2022
+  * Sept: I attended SRDS'22 in Vienna, Austria.
   * Sept: I attended VLDB'22 in Sydney, Australia.
   * Aug: [Disseminate: The Computer Science Research Podcast Season 1 (SIGMOD'22)](https://disseminatepodcast.podcastpage.io/) was completed.  
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
@@ -58,7 +59,8 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
     Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
 <br />
-<!-- [[video]()] [[slides]()] [[code]()] -->
+<!-- [[video]()] [[slides]()]  -->
+[[code](https://github.com/jackwaudby/srds-22/tree/main/code)]
 
 **[LSQB: A Large-Scale Subgraph Query Benchmark](https://dl.acm.org/doi/pdf/10.1145/3461837.3464516)**
 <br />
