@@ -15,9 +15,12 @@ My main research interest is distributed database systems, specifically transact
 My PhD research is concerned with data consistency in distributed graph databases.
 I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force.
 
-My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics &
+My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics 
 Mathematics and Statistics respectively.
-Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. [[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)]
+Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. 
+
+[[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter](https://twitter.com/jwaudberry)] [[LinkedIn](www.linkedin.com/in/jack-waudby
+)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
 
 I'm also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
 
