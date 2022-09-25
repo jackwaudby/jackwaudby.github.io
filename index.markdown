@@ -60,8 +60,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
     Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
 <br />
-<!-- [[video]()]   -->
-[[slides](https://github.com/jackwaudby/srds-22/blob/main/slides/srds-2022.pdf)] [[code](https://github.com/jackwaudby/srds-22/tree/main/code)]
+[[video](https://youtu.be/BK1KuV5v7QM)] [[slides](https://github.com/jackwaudby/srds-22/blob/main/slides/srds-2022.pdf)] [[code](https://github.com/jackwaudby/srds-22/tree/main/code)]
 
 **[LSQB: A Large-Scale Subgraph Query Benchmark](https://dl.acm.org/doi/pdf/10.1145/3461837.3464516)**
 <br />
