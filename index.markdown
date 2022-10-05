@@ -68,13 +68,13 @@ Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas
 <br />
 [[code](https://github.com/ldbc/lsqb)]
 
-**[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](http://ldbcouncil.org/)**
+**[Towards Testing ACID Compliance in the LDBC Social Network Benchmark](https://link.springer.com/chapter/10.1007/978-3-030-84924-5_1)**
 <br />
     Jack Waudby, Benjamin A. Steer, Karim Karimov, József Marton, Peter Boncz, Gábor Szárnyas. Proceedings of TPCTC@VLDB, 2020.
 <br />
 [[video](https://www.youtube.com/watch?v=CKdfs0OlDw4)] [[slides](https://github.com/ldbc/ldbc_acid/tree/master/slides)] [[code](https://github.com/ldbc/ldbc_acid)]
 
-**[Supporting Dynamic Graphs and Temporal Entity Deletions in the LDBC Social Network Benchmark's Data Generator](http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf)**
+**[Supporting Dynamic Graphs and Temporal Entity Deletions in the LDBC Social Network Benchmark's Data Generator](https://dl.acm.org/doi/10.1145/3398682.3399165)**
 <br />
     Jack Waudby, Benjamin A. Steer, Arnau Prat-Pérez, Gábor Szárnyas. Proceedings of GRADES-NDA@SIGMOD, 2020.
 <br />
