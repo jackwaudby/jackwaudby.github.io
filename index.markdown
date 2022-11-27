@@ -8,7 +8,7 @@ title: About me
 </div>
 
 I'm a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the
-[Scalable Computing Group](https://www.ncl.ac.uk/computing/research/groups/scalable/#about) and the
+[Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the
 [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). Currently, I'm working as a software engineer in the clustering team at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/). 
 
 My main research interest is distributed database systems, specifically transaction management and replication.
@@ -21,8 +21,7 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 
 I'm also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
 
-[[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter](https://twitter.com/jwaudberry)] [[LinkedIn](www.linkedin.com/in/jack-waudby
-)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
+[[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter](https://twitter.com/jwaudberry)] [[LinkedIn](https://www.linkedin.com/in/jack-waudby/)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=UzLzhIQAAAAJ)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
 
 ## News ##
 
@@ -51,9 +50,9 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 <br />
 [[video](https://youtu.be/oPOfodWVoO4)] [[slides](https://github.com/jackwaudby/tpctc-22/blob/main/slides/tpctc_jack_waudby.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
-**[High Performance Mixed Graph-Based Concurrency Control](https://jackwaudby.github.io/vldb-phd-workshop-22/ms.pdf)**
+**[High Performance Mixed Graph-Based Concurrency Control](https://ceur-ws.org/Vol-3186/paper_7.pdf)**
 <br />
-    Jack Waudby. To Appear In: Proceedings of VLDB PhD Workshop, 2022.
+    Jack Waudby. Proceedings of VLDB PhD Workshop, 2022.
 <br />
 [[video](https://youtu.be/u-PPcLy-dqY)] [[slides](https://github.com/jackwaudby/vldb-phd-workshop-22/blob/main/slides/PhDWorkshop_9.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
@@ -95,7 +94,7 @@ Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas
 
 ### Preprints ###
 
-**[The LDBC Social Network Benchmark](http://ldbcouncil.org/sites/default/files/ldbc-snb-bi-grades-nda.pdf)**
+**[The LDBC Social Network Benchmark](https://arxiv.org/pdf/2001.02299.pdf)**
 <br />
     Renzo Angles, János Benjamin Antal, Alex Averbuch, Peter Boncz, Orri Erling, Andrey Gubichev, Vlad Haprian, Moritz Kaufmann, Josep Lluís Larriba Pey, Norbert Martínez, József Marton, Marcus Paradies, Minh-Duc Pham, Arnau Prat-Pérez, Mirko Spasić, Benjamin A. Steer, Gábor Szárnyas, Jack Waudby. CoRR abs/2001.02299, 2020.
 
