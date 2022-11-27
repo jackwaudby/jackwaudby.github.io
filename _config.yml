@@ -19,9 +19,12 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    twitter: jwaudberry
-    github: jackwaudby
-    linkedin: jack-waudby
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+
+    # twitter: jwaudberry
+    # github: jackwaudby
+    # linkedin: jack-waudby
 
 # Exclude from processing.
 # The following items will not be processed, by default.
