@@ -7,32 +7,35 @@ title: About me
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/me.JPG" alt="me with beard" width="20%">
 </div>
 
-I'm a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the
-[Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the
-[Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). Currently, I'm working as a software engineer in the clustering team at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/). 
+I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering team.
 
+I am also a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
 My main research interest is distributed database systems, specifically transaction management and replication.
-My PhD research is concerned with data consistency in distributed graph databases.
-I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force.
+<!-- My PhD research is concerned with data consistency in distributed graph databases. -->
+<!-- I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force. -->
 
-My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics 
-Mathematics and Statistics respectively.
+My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics Mathematics and Statistics respectively.
 Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. 
 
-I'm also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
+I am also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. 
+Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
 
 [[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter](https://twitter.com/jwaudberry)] [[LinkedIn](https://www.linkedin.com/in/jack-waudby/)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=UzLzhIQAAAAJ)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
 
 ## News ##
 
+* 2023
+  * Feb: I was a program committee member of the [10th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC)](https://papoc-workshop.github.io/2023/).
+  * Feb: I was invited by Vaibhav Arora to give a talk on _"Epoch-based Commit Protocols in Distributed Databases"_ to the Salesforce Database Reading Group.
 * 2022
+  * Dec: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) was accepeted to [VLDB'23](https://vldb.org/2023/).
   * Oct: I attended [HPTS'22](http://www.hpts.ws/) (invitation only).
   * Aug: [Disseminate: The Computer Science Research Podcast Season 1 (SIGMOD'22)](https://disseminatepodcast.podcastpage.io/) was completed.  
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
-  * July: Our paper _"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_  was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
-  * July: My paper _"High Performance Mixed Graph-Based Concurrency Control"_  was accepted to the [PhD Workshop](https://vldb.org/2022/?program-schedule-phd-workshop) at [VLDB'22](https://vldb.org/2022/).
+  * July: Our paper [_"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_](https://jackwaudby.github.io/tpctc-22/ms.pdf) was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
+  * July: My paper [_"High Performance Mixed Graph-Based Concurrency Control"_](https://ceur-ws.org/Vol-3186/paper_7.pdf)  was accepted to the [PhD Workshop](https://vldb.org/2022/?program-schedule-phd-workshop) at [VLDB'22](https://vldb.org/2022/).
   * June: I launched [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast aimed at making Computer Science research more accessible, helping bridge the gap between academia and industry. 
-  * June: Our paper _"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_  was accepted at [SRDS'22](https://srds-conference.org/).
+  * June: Our paper [_"A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases"_](https://jackwaudby.github.io/srds-22/ms.pdf)  was accepted at [SRDS'22](https://srds-conference.org/).
   * June: I co-organized the [15th LDBC TUC meeting](https://ldbcouncil.org/event/fifteenth-tuc-meeting/) co-located with [SIGMOD'22](https://2022.sigmod.org/).
   * May: I conducted (another) research visit to [CWI Amsterdam](https://www.cwi.nl/), working with [Gábor Szárnyas](https://szarnyasg.github.io/) on the [LDBC Social Network Benchmark](https://ldbcouncil.org/benchmarks/snb/).
   * Feb: I conducted a research visit to [CWI Amsterdam](https://www.cwi.nl/), working with [Gábor Szárnyas](https://szarnyasg.github.io/) on the [LDBC Social Network Benchmark](https://ldbcouncil.org/benchmarks/snb/).
@@ -43,6 +46,13 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
   * Aug-Dec: I was an intern at [Neo4j](https://neo4j.com/) as part of the clustering team.
 
 ## Publications ##
+
+**[The LDBC Social Network Benchmark: Business Intelligence Workload](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf)**
+<br />
+    Gábor Szárnyas, Jack Waudby, Benjamin A. Steer, Dávid Szakállas, Altan Birler, Mingxi Wu, Yuchen Zhang, Peter Boncz. To Appear In: Proceedings of VLDB, 2023.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
+
 
 **[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing](https://jackwaudby.github.io/tpctc-22/ms.pdf)**
 <br />
@@ -58,7 +68,7 @@ I'm also the host of [Disseminate: The Computer Science Research Podcast](https:
 
 **[A Performance Study of Epoch-based Commit Protocols in Distributed OLTP Databases](https://jackwaudby.github.io/srds-22/ms.pdf)**
 <br />
-    Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. To Appear In: Proceedings of SRDS, 2022.
+    Jack Waudby, Paul Ezhilchelvan, Isi Mitrani, Jim Webber. Proceedings of SRDS, 2022.
 <br />
 [[video](https://youtu.be/BK1KuV5v7QM)] [[slides](https://github.com/jackwaudby/srds-22/blob/main/slides/srds-2022.pdf)] [[code](https://github.com/jackwaudby/srds-22/tree/main/code)]
 
