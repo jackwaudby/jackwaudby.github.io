@@ -7,7 +7,7 @@ title: About me
     <img style="float:right;text-align:left;border-radius:10%" src="/assets/me.JPG" alt="me with beard" width="20%">
 </div>
 
-I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering team.
+I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering Team.
 
 I am also a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
 My main research interest is distributed database systems, specifically transaction management and replication.
@@ -25,12 +25,13 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 ## News ##
 
 * 2023
+  * Apr: I gave a talk on _"Decentralized Epoch-based Commit"_ at the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
+  * Mar: I was a program committee member of the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Feb: I was a program committee member of the [10th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC)](https://papoc-workshop.github.io/2023/).
   * Feb: I was invited by Vaibhav Arora to give a talk on _"Epoch-based Commit Protocols in Distributed Databases"_ to the Salesforce Database Reading Group.
 * 2022
   * Dec: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) was accepeted to [VLDB'23](https://vldb.org/2023/).
   * Oct: I attended [HPTS'22](http://www.hpts.ws/) (invitation only).
-  * Aug: [Disseminate: The Computer Science Research Podcast Season 1 (SIGMOD'22)](https://disseminatepodcast.podcastpage.io/) was completed.  
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
   * July: Our paper [_"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_](https://jackwaudby.github.io/tpctc-22/ms.pdf) was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
   * July: My paper [_"High Performance Mixed Graph-Based Concurrency Control"_](https://ceur-ws.org/Vol-3186/paper_7.pdf)  was accepted to the [PhD Workshop](https://vldb.org/2022/?program-schedule-phd-workshop) at [VLDB'22](https://vldb.org/2022/).
@@ -56,7 +57,7 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 **[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing](https://jackwaudby.github.io/tpctc-22/ms.pdf)**
 <br />
-    Jack Waudby, Paul Ezhilchelvan, Jim Webber. To Appear In: Proceedings of TPCTC@VLDB, 2022.
+    Jack Waudby, Paul Ezhilchelvan, Jim Webber. Proceedings of TPCTC@VLDB, 2022.
 <br />
 [[video](https://youtu.be/oPOfodWVoO4)] [[slides](https://github.com/jackwaudby/tpctc-22/blob/main/slides/tpctc_jack_waudby.pdf)] [[code](https://github.com/jackwaudby/spaghetti)]
 
