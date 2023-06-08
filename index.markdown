@@ -25,6 +25,7 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 ## News ##
 
 * 2023
+  * Jun: I successfully defended my PhD thesis [_"High Performance Concurrency Control and Commit Protocols in OLTP Databases"_](https://jackwaudby.github.io/thesis/thesis.pdf). Thank you to my examiners [Jie Xu](https://eps.leeds.ac.uk/computing/staff/331/professor-jie-xu) and [Nigel Thomas](https://www.ncl.ac.uk/computing/staff/profile/nigelthomas.html).
   * Apr: I gave a talk on _"Decentralized Epoch-based Commit"_ at the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Mar: I was a program committee member of the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Feb: I was a program committee member of the [10th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC)](https://papoc-workshop.github.io/2023/).
