@@ -9,7 +9,7 @@ title: About me
 
 I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering Team.
 
-I am also a Computer Science PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
+I completed my PhD in Computer Science at [Newcastle University](https://www.ncl.ac.uk) where I was part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
 My main research interest is distributed database systems, specifically transaction management and replication.
 <!-- My PhD research is concerned with data consistency in distributed graph databases. -->
 <!-- I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force. -->
