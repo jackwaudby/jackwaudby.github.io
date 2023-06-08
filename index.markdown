@@ -49,6 +49,11 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## Publications ##
 
+**[High Performance Concurrency Control and Commit Protocols in OLTP Databases](https://jackwaudby.github.io/thesis/thesis.pdf)**
+<br />
+    Jack Waudby. PhD Thesis, 2023.
+<br />
+
 **[The LDBC Social Network Benchmark: Business Intelligence Workload](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf)**
 <br />
     Gábor Szárnyas, Jack Waudby, Benjamin A. Steer, Dávid Szakállas, Altan Birler, Mingxi Wu, Yuchen Zhang, Peter Boncz. To Appear In: Proceedings of VLDB, 2023.
