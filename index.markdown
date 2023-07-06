@@ -25,13 +25,14 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 ## News ##
 
 * 2023
+  * Jul: Two of our papers _"The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space"_ and _"The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations"_ were accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2023/p) at [VLDB'23](https://vldb.org/2023/).
   * Jun: I successfully defended my PhD thesis [_"High Performance Concurrency Control and Commit Protocols in OLTP Databases"_](https://jackwaudby.github.io/thesis/thesis.pdf). Thank you to my examiners [Jie Xu](https://eps.leeds.ac.uk/computing/staff/331/professor-jie-xu) and [Nigel Thomas](https://www.ncl.ac.uk/computing/staff/profile/nigelthomas.html).
   * Apr: I gave a talk on _"Decentralized Epoch-based Commit"_ at the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Mar: I was a program committee member of the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Feb: I was a program committee member of the [10th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC)](https://papoc-workshop.github.io/2023/).
   * Feb: I was invited by Vaibhav Arora to give a talk on _"Epoch-based Commit Protocols in Distributed Databases"_ to the Salesforce Database Reading Group.
 * 2022
-  * Dec: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) was accepeted to [VLDB'23](https://vldb.org/2023/).
+  * Dec: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) was accepted to [VLDB'23](https://vldb.org/2023/).
   * Oct: I attended [HPTS'22](http://www.hpts.ws/) (invitation only).
   * Aug: I (re-)joined the Neo4j clustering team as a software engineer. 
   * July: Our paper [_"Pick & Mix Isolation Levels: Mixed Serialization Graph Testing"_](https://jackwaudby.github.io/tpctc-22/ms.pdf) was accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2022/default5.asp) at [VLDB'22](https://vldb.org/2022/).
@@ -49,6 +50,18 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## Publications ##
 
+**[The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations]()**
+<br />
+    David Püroja, Jack Waudby, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2023.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
+
+**[The LDBC Social Network Benchmark: Business Intelligence Workload]()**
+<br />
+    Gábor Szárnyas, Brad Bebee, Altan Birler, Alin Deutsch, George Fletcher, Henry A. Gabb, Denise Gosnell, Alastair Green, Zhihui Guo, Keith W. Hare, Jan Hidders, Alexandru Iosup, Atanas Kiryakov, Tomas Kovatchev, Xinsheng Li, Leonid Libkin, Heng Lin, Xiaojian Luo, Arnau Prat-Pérez, David Püroja, Shipeng Q, Oskar van Rest, Benjamin A. Steer, Dávid Szakállas, Bing Tong, Jack Waudby, Mingxi Wu, Bin Yang, Wenyuan Yu, Chen Zhang, Jason Zhang, Yan Zhou, Peter Boncz. To Appear In: Proceedings of TPCTC@VLDB, 2023.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
+
 **[High Performance Concurrency Control and Commit Protocols in OLTP Databases](https://jackwaudby.github.io/thesis/thesis.pdf)**
 <br />
     Jack Waudby. PhD Thesis, 2023.
@@ -59,7 +72,6 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
     Gábor Szárnyas, Jack Waudby, Benjamin A. Steer, Dávid Szakállas, Altan Birler, Mingxi Wu, Yuchen Zhang, Peter Boncz. To Appear In: Proceedings of VLDB, 2023.
 <br />
 <!-- [[video]()] [[slides]()] [[code]()] -->
-
 
 **[Pick & Mix Isolation Levels: Mixed Serialization Graph Testing](https://jackwaudby.github.io/tpctc-22/ms.pdf)**
 <br />
