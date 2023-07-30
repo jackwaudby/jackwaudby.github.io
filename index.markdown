@@ -10,7 +10,7 @@ title: About me
 I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering Team.
 
 I completed my PhD in Computer Science at [Newcastle University](https://www.ncl.ac.uk) where I was part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/scalable-computing/) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
-My main research interest is distributed database systems, specifically transaction management and replication.
+My main research interest are distributed database systems, specifically the areas of transaction management and replication.
 <!-- My PhD research is concerned with data consistency in distributed graph databases. -->
 <!-- I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force. -->
 
@@ -25,7 +25,7 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 ## News ##
 
 * 2023
-  * Jul: Two of our papers [_"The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space"_]() and [_"The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations"_]() were accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2023/p) at [VLDB'23](https://vldb.org/2023/).
+  * Jul: Two of our papers [_"The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space"_](https://arxiv.org/pdf/2307.04350.pdf) and [_"The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations"_](https://arxiv.org/pdf/2307.04820.pdf) were accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2023/p) at [VLDB'23](https://vldb.org/2023/).
   * Jun: I successfully defended my PhD thesis [_"High Performance Concurrency Control and Commit Protocols in OLTP Databases"_](https://jackwaudby.github.io/thesis/thesis.pdf). Thank you to my examiners [Jie Xu](https://eps.leeds.ac.uk/computing/staff/331/professor-jie-xu) and [Nigel Thomas](https://www.ncl.ac.uk/computing/staff/profile/nigelthomas.html).
   * Apr: I gave a talk on _"Decentralized Epoch-based Commit"_ at the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
   * Mar: I was a program committee member of the [7th UK System Research Challenges Workshop](https://uksystems.org/workshop/2023/).
@@ -50,13 +50,13 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## Publications ##
 
-**[The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations]()**
+**[The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations](https://arxiv.org/pdf/2307.04820.pdf)**
 <br />
     David Püroja, Jack Waudby, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2023.
 <br />
 <!-- [[video]()] [[slides]()] [[code]()] -->
 
-**[The LDBC Social Network Benchmark: Business Intelligence Workload]()**
+**[The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space](https://arxiv.org/pdf/2307.04350.pdf)**
 <br />
     Gábor Szárnyas, Brad Bebee, Altan Birler, Alin Deutsch, George Fletcher, Henry A. Gabb, Denise Gosnell, Alastair Green, Zhihui Guo, Keith W. Hare, Jan Hidders, Alexandru Iosup, Atanas Kiryakov, Tomas Kovatchev, Xinsheng Li, Leonid Libkin, Heng Lin, Xiaojian Luo, Arnau Prat-Pérez, David Püroja, Shipeng Q, Oskar van Rest, Benjamin A. Steer, Dávid Szakállas, Bing Tong, Jack Waudby, Mingxi Wu, Bin Yang, Wenyuan Yu, Chen Zhang, Jason Zhang, Yan Zhou, Peter Boncz. To Appear In: Proceedings of TPCTC@VLDB, 2023.
 <br />
