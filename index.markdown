@@ -20,11 +20,12 @@ Outside of my research I enjoy playing football and I'm also a qualified [CSIA](
 I am also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. 
 Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
 
-[[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter](https://twitter.com/jwaudberry)] [[LinkedIn](https://www.linkedin.com/in/jack-waudby/)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=UzLzhIQAAAAJ)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
+[[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter/X](https://twitter.com/jwaudberry)] [[LinkedIn](https://www.linkedin.com/in/jack-waudby/)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=UzLzhIQAAAAJ)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
 
 ## News ##
 
 * 2023
+  * Nov: Our vision paper [_"Mammoths Are Slow: The Overlooked Transactions of Graph Data"_]() was accepted to [VLDB'24](https://vldb.org/2024/).
   * Aug: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) won the Best Paper Award for the Experiment, Analysis, & Benchmark Track at [VLDB'23](https://vldb.org/2023/). 
   * Jul: Two of our papers [_"The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space"_](https://arxiv.org/pdf/2307.04350.pdf) and [_"The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations"_](https://arxiv.org/pdf/2307.04820.pdf) were accepted to [TPCTC](https://www.tpc.org/tpctc/tpctc2023/p) at [VLDB'23](https://vldb.org/2023/).
   * Jun: I successfully defended my PhD thesis [_"High Performance Concurrency Control and Commit Protocols in OLTP Databases"_](https://jackwaudby.github.io/thesis/thesis.pdf). Thank you to my examiners [Jie Xu](https://eps.leeds.ac.uk/computing/staff/331/professor-jie-xu) and [Nigel Thomas](https://www.ncl.ac.uk/computing/staff/profile/nigelthomas.html).
