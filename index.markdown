@@ -24,6 +24,8 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## News ##
 
+* 2024
+  * Apr: I gave a talk on _"The Wonderful World of Distributed Transactions"_ at the Neo4j Engineering Offsite in Tylösand (slides available on request).
 * 2023
   * Nov: Our vision paper [_"Mammoths Are Slow: The Overlooked Transactions of Graph Data"_]() was accepted to [VLDB'24](https://vldb.org/2024/).
   * Aug: Our paper [_"The LDBC Social Network Benchmark: Business Intelligence Workload"_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf) won the Best Paper Award for the Experiment, Analysis, & Benchmark Track at [VLDB'23](https://vldb.org/2023/). 
@@ -52,15 +54,21 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## Publications ##
 
+**[Mammoths Are Slow: The Overlooked Transactions of Graph Data](https://dl.acm.org/doi/10.14778/3636218.3636241)**
+<br />
+    Audrey Cheng, Jack Waudby, Hugo Firth, Natacha Crooks, Ion Stoica. To Appear In: Proceedings of VLDB, 2024.
+<br />
+<!-- [[video]()] [[slides]()] [[code]()] -->
+
 **[The LDBC Social Network Benchmark Interactive Workload v2: A Transactional Graph Query Benchmark with Deep Delete Operations](https://arxiv.org/pdf/2307.04820.pdf)**
 <br />
-    David Püroja, Jack Waudby, Peter Boncz, Gábor Szárnyas. To Appear In: Proceedings of TPCTC@VLDB, 2023.
+    David Püroja, Jack Waudby, Peter Boncz, Gábor Szárnyas. Proceedings of TPCTC@VLDB, 2023.
 <br />
 <!-- [[video]()] [[slides]()] [[code]()] -->
 
 **[The Linked Data Benchmark Council (LDBC): Driving competition and collaboration in the graph data management space](https://arxiv.org/pdf/2307.04350.pdf)**
 <br />
-    Gábor Szárnyas, Brad Bebee, Altan Birler, Alin Deutsch, George Fletcher, Henry A. Gabb, Denise Gosnell, Alastair Green, Zhihui Guo, Keith W. Hare, Jan Hidders, Alexandru Iosup, Atanas Kiryakov, Tomas Kovatchev, Xinsheng Li, Leonid Libkin, Heng Lin, Xiaojian Luo, Arnau Prat-Pérez, David Püroja, Shipeng Q, Oskar van Rest, Benjamin A. Steer, Dávid Szakállas, Bing Tong, Jack Waudby, Mingxi Wu, Bin Yang, Wenyuan Yu, Chen Zhang, Jason Zhang, Yan Zhou, Peter Boncz. To Appear In: Proceedings of TPCTC@VLDB, 2023.
+    Gábor Szárnyas, Brad Bebee, Altan Birler, Alin Deutsch, George Fletcher, Henry A. Gabb, Denise Gosnell, Alastair Green, Zhihui Guo, Keith W. Hare, Jan Hidders, Alexandru Iosup, Atanas Kiryakov, Tomas Kovatchev, Xinsheng Li, Leonid Libkin, Heng Lin, Xiaojian Luo, Arnau Prat-Pérez, David Püroja, Shipeng Q, Oskar van Rest, Benjamin A. Steer, Dávid Szakállas, Bing Tong, Jack Waudby, Mingxi Wu, Bin Yang, Wenyuan Yu, Chen Zhang, Jason Zhang, Yan Zhou, Peter Boncz. Proceedings of TPCTC@VLDB, 2023.
 <br />
 <!-- [[video]()] [[slides]()] [[code]()] -->
 
@@ -71,7 +79,7 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 **[The LDBC Social Network Benchmark: Business Intelligence Workload](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf)**
 <br />
-    Gábor Szárnyas, Jack Waudby, Benjamin A. Steer, Dávid Szakállas, Altan Birler, Mingxi Wu, Yuchen Zhang, Peter Boncz. To Appear In: Proceedings of VLDB, 2023.
+    Gábor Szárnyas, Jack Waudby, Benjamin A. Steer, Dávid Szakállas, Altan Birler, Mingxi Wu, Yuchen Zhang, Peter Boncz. Proceedings of VLDB, 2023.
 <br />
 <!-- [[video]()] [[slides]()] [[code]()] -->
 
