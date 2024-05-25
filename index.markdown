@@ -14,7 +14,7 @@ My main research interest are distributed database systems, specifically the are
 <!-- My PhD research is concerned with data consistency in distributed graph databases. -->
 <!-- I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force. -->
 
-My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics Mathematics and Statistics respectively.
+My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics &amp; Mathematics and Statistics respectively.
 Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. 
 
 I am also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. 
@@ -25,6 +25,7 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 ## News ##
 
 * 2024
+  * May: I launched the [_"High Impact in Databases..."_](https://open.spotify.com/episode/5Bh4esJhcztQm0V0cG8GqZ?si=nKek-EedRASQ1-Czi4q3Tw) podcast series. The series is based on a blog post ["Most Influential Database Papers"](https://rmarcus.info/blog/2023/07/25/papers.html) by Ryan Marcus. In the first episode we chat with Ryan. 
   * Apr: I gave a talk on _"The Wonderful World of Distributed Transactions"_ at the Neo4j Engineering Offsite in Tylösand (slides available on request).
 * 2023
   * Nov: Our vision paper [_"Mammoths Are Slow: The Overlooked Transactions of Graph Data"_]() was accepted to [VLDB'24](https://vldb.org/2024/).
@@ -138,6 +139,8 @@ Amine Mhedhbi, Matteo Lissandrini, Laurens Kuiper, Jack Waudby, Gábor Szárnyas
     Renzo Angles, János Benjamin Antal, Alex Averbuch, Peter Boncz, Orri Erling, Andrey Gubichev, Vlad Haprian, Moritz Kaufmann, Josep Lluís Larriba Pey, Norbert Martínez, József Marton, Marcus Paradies, Minh-Duc Pham, Arnau Prat-Pérez, Mirko Spasić, Benjamin A. Steer, Gábor Szárnyas, Jack Waudby. CoRR abs/2001.02299, 2020.
 
 ### Awards ###
+
+VLDB Best Paper Award for the Experiment, Analysis, & Benchmark Track for [_The LDBC Social Network Benchmark: Business Intelligence Workload_](https://www.vldb.org/pvldb/vol16/p877-szarnyas.pdf)*, 2023.
 
 Placed 2nd in Newcastle University School of Computing PhD Poster Competition. *[Corruption in Distributed Graph Databases](https://github.com/jackwaudby/epew/blob/master/poster.pdf)*, 2019.
 
