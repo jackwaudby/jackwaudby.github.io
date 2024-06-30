@@ -15,17 +15,17 @@ My main research interest are distributed database systems, specifically the are
 <!-- I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force. -->
 
 My undergraduate and masters degrees were completed at [Lancaster University](https://www.lancaster.ac.uk) in Economics &amp; Mathematics and Statistics respectively.
-Outside of my research I enjoy playing football and I'm also a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. 
+Outside of my research I enjoy running, yoga, and skiing; I'm a qualified [CSIA](https://www.snowpro.com/en/) Level 2 ski instructor. 
 
 I am also the host of [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) a podcast featuring interviews with authors of the latest Computer Science papers. 
-Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzL2Rpc3NlbWluYXRl), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
+Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amazon](https://music.amazon.co.uk/podcasts/c7e28d4e-d611-420f-ae47-6784cc5c41b0/disseminate), [YouTube](https://www.youtube.com/channel/UCCpkF2IfrPtR222zeGXZZMQ) and [Apple](https://podcasts.apple.com/us/podcast/disseminate/id1631350873).
 
 [[CV](https://jackwaudby.github.io/cv/jwaudby-cv.pdf)] [[GitHub](https://github.com/jackwaudby)] [[Twitter/X](https://twitter.com/jwaudberry)] [[LinkedIn](https://www.linkedin.com/in/jack-waudby/)] [[DBLP](https://dblp.org/pid/256/1560.html)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=UzLzhIQAAAAJ)] [[YouTube](https://www.youtube.com/channel/UCbPpSkThoBaefidQNn3p-Zw)] 
 
 ## News ##
 
 * 2024
-  * May: I launched the [_"High Impact in Databases..."_](https://open.spotify.com/episode/5Bh4esJhcztQm0V0cG8GqZ?si=nKek-EedRASQ1-Czi4q3Tw) podcast series. The series is based on a blog post ["Most Influential Database Papers"](https://rmarcus.info/blog/2023/07/25/papers.html) by Ryan Marcus. In the first episode we chat with Ryan. 
+  * May: I launched the [_"High Impact in Databases..."_](https://open.spotify.com/episode/5Bh4esJhcztQm0V0cG8GqZ?si=nKek-EedRASQ1-Czi4q3Tw) podcast series. The series is based on a blog post ["Most Influential Database Papers"](https://rmarcus.info/blog/2023/07/25/papers.html) by [Ryan Marcus](https://rmarcus.info/blog/). In the first episode we chat with Ryan. 
   * Apr: I gave a talk on _"The Wonderful World of Distributed Transactions"_ at the Neo4j Engineering Offsite in Tylösand (slides available on request).
 * 2023
   * Nov: Our vision paper [_"Mammoths Are Slow: The Overlooked Transactions of Graph Data"_]() was accepted to [VLDB'24](https://vldb.org/2024/).
