@@ -24,6 +24,11 @@ Listen on [Spotify](https://open.spotify.com/show/6IQIF9oRSf0FPjBUj0AkYA), [Amaz
 
 ## News ##
 
+* 2025
+  * Jul: With Neo4j colleagues Dr Hugo Firth and Prof. Jim Webber I delivered a tutorial on _"Modern Graph Databases: Practice and Research"_ at [IDEAS 2025](https://conferences.ncl.ac.uk/ideas2025/keynotestutorials/theroleofdatabasesintheageofai.html).
+  * Jul: I featured in an industrial panel discussion on _"The role of Databases in the Age of AI"_ at [IDEAS 2025](https://conferences.ncl.ac.uk/ideas2025/keynotestutorials/theroleofdatabasesintheageofai.html).
+  * Mar: I launched the [_"DuckDB in Research"_](https://open.spotify.com/episode/2C4pOeIPz5yvRLKsPHZDjB?si=ef3eec11113b4f21) podcast series. 
+
 * 2024
   * May: I launched the [_"High Impact in Databases..."_](https://open.spotify.com/episode/5Bh4esJhcztQm0V0cG8GqZ?si=nKek-EedRASQ1-Czi4q3Tw) podcast series. The series is based on a blog post ["Most Influential Database Papers"](https://rmarcus.info/blog/2023/07/25/papers.html) by [Ryan Marcus](https://rmarcus.info/blog/). In the first episode we chat with Ryan. 
   * Apr: I gave a talk on _"The Wonderful World of Distributed Transactions"_ at the Neo4j Engineering Offsite in Tylösand (slides available on request).
