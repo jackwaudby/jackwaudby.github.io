@@ -4,7 +4,7 @@ title: About me
 ---
 
 <div style="padding-bottom:10px;text-align:left">
-    <img style="float:right;text-align:left;border-radius:10%" src="/assets/ai-me.JPG" alt="me with beard" width="20%">
+    <img style="float:right;text-align:left;border-radius:10%" src="/assets/me.JPG" alt="me with beard" width="20%">
 </div>
 
 I am a software engineer at [Neo4j](https://neo4j.com/docs/operations-manual/current/clustering/) working in the Clustering Team.
